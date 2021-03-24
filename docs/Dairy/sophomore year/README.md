@@ -1,2 +1,2 @@
-# 大二下
+# sophomore year
 source: `{{ page.path }}`
