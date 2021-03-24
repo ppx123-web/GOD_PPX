@@ -1,1 +1,3 @@
 # Dairy
+
+source: `{{ page.path }}`
